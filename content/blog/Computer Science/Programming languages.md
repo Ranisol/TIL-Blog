@@ -1,3 +1,9 @@
+---
+title: 프로그래밍 언어 종류
+date: "2020-09-01"
+description: 
+---
+ 
 # 언어의 종류
 
 Machine Languages (기계어)

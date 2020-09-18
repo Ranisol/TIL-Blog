@@ -1,3 +1,8 @@
+---
+title: Complextiy Analysis
+date: "2020-09-18"
+description: 
+---
 # Why complextiy Analysis is important?
 
 ## Big O notation

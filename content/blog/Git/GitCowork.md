@@ -1,3 +1,9 @@
+---
+title: 깃허브 알아보기
+date: "2020-09-08"
+description: 
+---
+ 
 # Git basic 
 git init : git 저장소를 초기화( 생성 ) 합니다.
 

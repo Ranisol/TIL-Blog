@@ -1,3 +1,8 @@
+---
+title: Java OOP
+date: "2020-08-28"
+description: 
+---
 # 생성자
 
 ## 생성자를 구현하는 방법

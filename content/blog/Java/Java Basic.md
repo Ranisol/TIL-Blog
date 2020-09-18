@@ -1,3 +1,9 @@
+---
+title: Java Basic
+date: "2020-08-28"
+description: 
+---
+ 
 # 입출력
 
 ## 입력할때까지 실행 대기

@@ -1,19 +1,9 @@
 ---
-title: Python 기본 체계
-excerpt: ""
-
-
-category:
-  - Python
-
-toc: true
-toc_label: "INDEX"
-toc_sticky: true 
-
-sidebar:
-  nav: sidebar
-
+title: Python Basic
+date: "2020-08-18"
+description: 
 ---
+
 
 아래 내용은 <a href="https://docs.python.org/ko/3.8/tutorial/index.html">파이썬 자습서</a> 및 <a href="https://docs.python.org/ko/3.8/library/stdtypes.html">파이썬 라이브러리 내장형</a> 의 내용을 개인적인 사용 목적과 빈도에 따라 요약, 정리한 내용입니다. 
 

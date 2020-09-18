@@ -1,4 +1,8 @@
-
+---
+title: Server API
+date: "2020-09-18"
+description: 
+---
 ### 5.(5) 서버 요청하기
 - 서버에 요청: 일반적으로 http(url)로 요청하게 됨.
   - 요청은 fetch API로
