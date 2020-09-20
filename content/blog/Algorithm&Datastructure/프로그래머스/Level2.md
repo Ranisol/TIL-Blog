@@ -1,5 +1,5 @@
 ---
-title: 프로그래머스 문제
+title: (Algorithm) 프로그래머스 문제
 date: "2020-09-18"
 description: 
 ---

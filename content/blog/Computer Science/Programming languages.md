@@ -1,5 +1,5 @@
 ---
-title: 프로그래밍 언어 종류
+title: (CS) 프로그래밍 언어 종류
 date: "2020-09-01"
 description: 
 ---

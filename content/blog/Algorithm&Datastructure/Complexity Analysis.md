@@ -1,5 +1,5 @@
 ---
-title: Complextiy Analysis
+title: (Algorithm) Complextiy Analysis
 date: "2020-09-18"
 description: 
 ---

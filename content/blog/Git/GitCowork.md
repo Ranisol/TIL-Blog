@@ -1,5 +1,5 @@
 ---
-title: 깃허브 알아보기
+title: (Git) 깃허브 알아보기
 date: "2020-09-08"
 description: 
 ---

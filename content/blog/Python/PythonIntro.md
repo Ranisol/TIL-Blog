@@ -1,5 +1,5 @@
 ---
-title: Python Basic
+title: (Python) Basic Statement, Datatype
 date: "2020-08-18"
 description: 
 ---

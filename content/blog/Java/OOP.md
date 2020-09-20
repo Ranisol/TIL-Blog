@@ -1,5 +1,5 @@
 ---
-title: Java OOP
+title: (Java) 2. OOP 구현
 date: "2020-08-28"
 description: 
 ---

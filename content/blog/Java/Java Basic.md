@@ -1,5 +1,5 @@
 ---
-title: Java Basic
+title: (Java) 1. Basic statement
 date: "2020-08-28"
 description: 
 ---
