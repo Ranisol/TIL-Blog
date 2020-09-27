@@ -1,99 +1,63 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's blog starter
-</h1>
+# 작성 규칙
+작성 규칙은 다음의 목적을 위함입니다.
+- 검색 비용 감소
+- 리마인드 비용 감소
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+## Base on Topic
+포스터 내용은 주제 중심입니다. 제목만 봐도 무엇을 다뤘는지 알 수 있게 작성합니다. 
+- Basic javascript와 같은 모호한 주제는 사용하지 않습니다.
+- 'function'과 같은 가급적 덩어리가 큰 주제는 배제합니다. 혹시나 있더라도, '-번호'를 붙여서 내용을 쪼갤수 있습니다. 
 
-## 🚀 Quick start
+또한 포스터의 작성 순서에 아무런 의미를 부여하지 않습니다.
+- 순서를 재배치하는 비용을 줄이고 포스터간 독립성을 유지하기 위함입니다. 
 
-1.  **Create a Gatsby site.**
+## Role of Index
+대신에 각각의 주제가 어떤 면에서 서로 연결되어 있는지는 가능하면 각 분류의 Index에서 다룹니다. Index는 수시로 수정될 수 있습니다. 객관적으로 중요한지 여부와 전혀 상관없이, 제 스스로의 체화 여부에 따라 내용이 추가되고 삭제됩니다. (내용 정리가 안되어 있을수록 index가 비대하고 정신 없을 수 있습니다.)
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
+## 링크
+링크는 공식문서인지, 개인이 작성한 포스터인지, stack overflow인지를 작성하고 가능하면 링크의 내용을 담아낼 수 있는 요약문구를 기반으로 해서 작성합니다. 
 
-    ```shell
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/gatsbyjs/gatsby-starter-blog
-    ```
+## 전체적인 분류
+분류는 불완전합니다. nodejs에 web이나 http를 다룰 수도 있습니다. 어디까지나 해당 내용을 공부하면서 제가 만나는 주제를 중심으로 작성했습니다. 
 
-1.  **Start developing.**
 
-    Navigate into your new site’s directory and start it up.
+# INDEX
 
-    ```shell
-    cd my-blog-starter/
-    gatsby develop
-    ```
+## Nodejs
+[Index](./content/blog/NodeJs&Web/0.index.md)
 
-1.  **Open the source code and start editing!**
+[1.Nvm,Npm,JSON](./content/blog/NodeJs&Web/1.Nvm,Npm,JSON.md)
 
-    Your site is now running at `http://localhost:8000`!
+[2.비동기 원리(Event Loop)](./content/blog/NodeJs&Web/2.0비동기구현하기.md)
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.com/tutorial/part-five/#introducing-graphiql)._
+[3.Promise, async await](./content/blog/NodeJs&Web/2.1비동기구현하기.md)
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+[4.모듈화와 파일시스템](./content/blog/NodeJs&Web/3.모듈화&파일시스템.md)
 
-## 🧐 What's inside?
+[5.서버에 요청하기](./content/blog/NodeJs&Web/4.0서버와통신하기.md)
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+[6.브라우저 동작원리(NaverD2)](./content/blog/NodeJs&Web/4.1브라우저의동작원리.md)
 
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
+[7.브라우저와 보안(CORS)](./content/blog/NodeJs&Web/4.2브라우저보안(Security).md)
 
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
+[8.클라이언트의 요청 처리하기](./content/blog/NodeJs&Web/5.클라이언트요청처리.md)
 
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+## Javascript
+[Index](./content/blog/Javascript/0.index.md)
 
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
+[1.var,let,const,scope](./content/blog/Javascript/1.var,let,const,scope.md)
 
-5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.com/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
+[2.EmptyArray,구조분해할당,immutableObject](./content/blog/Javascript/2.EmptyArray,구조분해할당,immutableObject.md)
 
-6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.com/docs/gatsby-config/) for more detail).
+[3.Closure,currying,IIFE,parameter](./content/blog/Javascript/3.Closure,currying,IIFE,parameter.md)
 
-7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.com/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
+[4.this,call,apply,bind](./content/blog/Javascript/4.this,call,apply,bind.md)
 
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.com/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
+[5.Oriented-Obeject Programming구현하기](./content/blog/Javascript/5.OOP구현하기.md)
 
-9.  **`LICENSE`**: This Gatsby starter is licensed under the 0BSD license. This means that you can see this file as a placeholder and replace it with your own license.
+[6.DOM 조작하기](./content/blog/Javascript/6.DOM.md)
 
-10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-
-12. **`README.md`**: A text file containing useful reference information about your project.
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-blog)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
+## HTML, CSS
