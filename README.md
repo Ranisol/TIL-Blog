@@ -3,7 +3,6 @@
 - 검색 비용 감소
 - 리마인드 비용 감소
 
-
 ## Base on Topic
 포스터 내용은 주제 중심입니다. 제목만 봐도 무엇을 다뤘는지 알 수 있게 작성합니다. 
 - Basic javascript와 같은 모호한 주제는 사용하지 않습니다.
@@ -22,42 +21,60 @@
 분류는 불완전합니다. nodejs에 web이나 http를 다룰 수도 있습니다. 어디까지나 해당 내용을 공부하면서 제가 만나는 주제를 중심으로 작성했습니다. 
 
 
+
+
 # INDEX
 
 ## Nodejs
 [Index](./content/blog/NodeJs&Web/0.index.md)
 
-[1.Nvm,Npm,JSON](./content/blog/NodeJs&Web/1.Nvm,Npm,JSON.md)
+[1. Nvm,Npm,JSON](./content/blog/NodeJs&Web/1.Nvm,Npm,JSON.md)
 
-[2.비동기 원리(Event Loop)](./content/blog/NodeJs&Web/2.0비동기구현하기.md)
+[2. 비동기 원리(Event Loop)](./content/blog/NodeJs&Web/2.0비동기구현하기.md)
 
-[3.Promise, async await](./content/blog/NodeJs&Web/2.1비동기구현하기.md)
+[3. Promise, async await](./content/blog/NodeJs&Web/2.1비동기구현하기.md)
 
-[4.모듈화와 파일시스템](./content/blog/NodeJs&Web/3.모듈화&파일시스템.md)
+[4. 모듈화와 파일시스템](./content/blog/NodeJs&Web/3.모듈화&파일시스템.md)
 
-[5.서버에 요청하기](./content/blog/NodeJs&Web/4.0서버와통신하기.md)
+[5. 서버에 요청하기](./content/blog/NodeJs&Web/4.0서버와통신하기.md)
 
-[6.브라우저 동작원리(NaverD2)](./content/blog/NodeJs&Web/4.1브라우저의동작원리.md)
+[6. 브라우저 동작원리(NaverD2)](./content/blog/NodeJs&Web/4.1브라우저의동작원리.md)
 
-[7.브라우저와 보안(CORS)](./content/blog/NodeJs&Web/4.2브라우저보안(Security).md)
+[7. 브라우저와 보안(CORS)](./content/blog/NodeJs&Web/4.2브라우저보안(Security).md)
 
-[8.클라이언트의 요청 처리하기](./content/blog/NodeJs&Web/5.클라이언트요청처리.md)
+[8. 클라이언트의 요청 처리하기](./content/blog/NodeJs&Web/5.클라이언트요청처리.md)
 
 
 ## Javascript
 [Index](./content/blog/Javascript/0.index.md)
 
-[1.var,let,const,scope](./content/blog/Javascript/1.var,let,const,scope.md)
+[1. var,let,const,scope](./content/blog/Javascript/1.var,let,const,scope.md)
 
-[2.EmptyArray,구조분해할당,immutableObject](./content/blog/Javascript/2.EmptyArray,구조분해할당,immutableObject.md)
+[2. EmptyArray,구조분해할당,immutableObject](./content/blog/Javascript/2.EmptyArray,구조분해할당,immutableObject.md)
 
-[3.Closure,currying,IIFE,parameter](./content/blog/Javascript/3.Closure,currying,IIFE,parameter.md)
+[3. Closure,currying,IIFE,parameter](./content/blog/Javascript/3.Closure,currying,IIFE,parameter.md)
 
-[4.this,call,apply,bind](./content/blog/Javascript/4.this,call,apply,bind.md)
+[4. this,call,apply,bind](./content/blog/Javascript/4.this,call,apply,bind.md)
 
-[5.Oriented-Obeject Programming구현하기](./content/blog/Javascript/5.OOP구현하기.md)
+[5. Oriented-Obeject Programming구현하기](./content/blog/Javascript/5.OOP구현하기.md)
 
-[6.DOM 조작하기](./content/blog/Javascript/6.DOM.md)
+[6. DOM 조작하기](./content/blog/Javascript/6.DOM.md)
 
 
-## HTML, CSS
+## Datastructure & Algorithm
+
+[index](./content/blog/Algorithm&Datastructure/0.index.md)
+
+[1. Stack & Queue](./content/blog/Algorithm&Datastructure/1.Stack&Queue.md)
+
+[2. Linkedlist & Hashtable](./content/blog/Algorithm&Datastructure/2.Linkedlist&Hashtable.md)
+
+[3. Graph, Tree, BST](./content/blog/Algorithm&Datastructure/3.Graph,Tree,BST.md)
+
+[4. binarySearch]()
+
+[5. sort]()
+
+
+
+
