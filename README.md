@@ -72,6 +72,7 @@
 
 [6. DOM 조작하기](./content/blog/Javascript/6.DOM.md)
 
+[7. Event Loop 번역](./content/blog/Javascript/7.JavascriptEventLoop번역.md)
 
 ## Datastructure & Algorithm
 
