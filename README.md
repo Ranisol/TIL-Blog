@@ -62,6 +62,22 @@
 [16. Debugging](./content/blog/NodeJs&Web/6.Debugging.md)
 
 
+## React
+
+[1. React 개발환경 구축하기](./content/blog/React/1.React개발환경구축.md)
+
+[2. JSX와 react element 렌더링 하기](./content/blog/React/2.JSXandRender.md)
+
+[3. 컴포넌트와 props의 개념](./content/blog/React/3.ComponentandProps.md)
+
+[4. props와 비교해보는 state, state를 활용한 LifeCycle](./content/blog/React/4.state와LifeCycle.md)
+
+[5. 조건부 렌더링의 다양한 Case](./content/blog/React/5.조건부렌더링.md)
+
+[6. JSX를 포함한 Array 렌더링하기, 그리고 key의 개념](./content/blog/React/6.List와Key.md)
+
+
+
 
 ## Javascript
 [Index](./content/blog/Javascript/0.index.md)
@@ -94,13 +110,6 @@
 [4. binarySearch]()
 
 [5. sort]()
-
-## React
-
-[1. JSX 알아보기](./content/blog/React/1.JSX.md)
-
-[2. React 개발환경 구축하기](./content/blog/React/2.React개발환경구축.md)
-
 
 
 
