@@ -34,7 +34,7 @@ https://velog.io/@ranisol
 # INDEX
 
 ## Nodejs
-[Index](./content/blog/NodeJs&Web/0.index.md)
+[Index](./content/blog/NodeJs&Web/0.Index.md)
 
 1. [Nvm,Npm,JSON](./content/blog/NodeJs&Web/1.Nvm,Npm,JSON.md)
 
@@ -42,7 +42,7 @@ https://velog.io/@ranisol
 
 3. [Promise, async await](./content/blog/NodeJs&Web/2.1비동기구현하기.md)
 
-4. [모듈화와 파일시스템](./content/blog/NodeJs&Web/3.모듈화&파일시스템.md)
+4. [모듈화와 파일시스템](./content/blog/NodeJs&Web/3.파일시스템.md)
 
 5. [서버에 요청하기](./content/blog/NodeJs&Web/4.0서버에요청하기.md)
 
