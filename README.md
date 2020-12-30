@@ -50,7 +50,7 @@ https://velog.io/@ranisol
 
 7. [브라우저와 보안(CORS)](./content/blog/NodeJs&Web/4.2브라우저보안(Security).md)
 
-8. [요청 처리하고 클라이언트에 응답하기](./content/blog/NodeJs&Web/5.클라이언트에응답하기.md)
+8. [요청 처리하고 클라이언트에 응답하기](./content/blog/NodeJs&Web/5.0클라이언트에응답하기.md)
 
 9. [Http & NetWorkTab](./content/blog/NodeJs&Web/4.3http&NetWorkTab.md)
 
@@ -89,7 +89,7 @@ https://velog.io/@ranisol
 
 8. [State 끌어올리기, setState의 비동기성](./content/blog/React/8.State끌어올리기setState비동기성.md)
 
-
+9. [Form(input, textarea, select)태그와 state](./content/blog/React/9.FormAndState.md)
 
 ## Javascript
 [Index](./content/blog/Javascript/0.index.md)
